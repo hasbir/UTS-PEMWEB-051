@@ -1,0 +1,8 @@
+- Cashier 
+Class ini bertujuan untuk mengambil detail pemesanan dan penampilan nilai kembalian pembayaran.
+
+- User 
+Class ini berfungsi sebagai lalu lintas penggunaan user ( login / logout ).
+
+- History
+Class ini bertujuan untuk menampilkan riwayat transaksi yang telah dilakukan.
